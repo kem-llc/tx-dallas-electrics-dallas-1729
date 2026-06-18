@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "TX Dallas Electrics",
+    "shortName": "TX Dallas Electrics",
+    "tagline": "Your Trusted Dallas Electricians for Over a Decade",
+    "niche": "Electrician",
+    "phone": "(469) 619-1729",
+    "address": "1401 Elm St, Dallas, TX 75202",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-5pm, Sun closed",
+    "ctaLabel": "Schedule Service Online",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Best Electrician in Dallas, TX | TX Dallas Electrics | (469) 619-1729",
+    "description": "TX Dallas Electrics is the top-rated electrician in Dallas, TX. We offer expert electrical repair, installation, and panel upgrades with 4.9 stars. Call (469) 619-1729 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Trusted Dallas Electricians",
+      "headline": "Expert Electrical Services in Dallas, TX",
+      "subheadline": "From panel upgrades to complete rewiring – we deliver safe, code-compliant solutions for your home or business.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Explore Our Services"
+    },
+    "stats": [
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "12+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential & Commercial",
+        "title": "Full-Service Electrical Work You Can Trust",
+        "body": "Whether you need a simple outlet repair or a full panel upgrade, our licensed electricians handle every job with precision and care. We serve homeowners, property managers, and businesses across Dallas.",
+        "bullets": [
+          "Emergency repairs available 24/7",
+          "Free estimates on all major projects",
+          "Licensed, insured, and bonded for your protection"
+        ],
+        "reverse": false,
+        "cardLabel": "Safety First",
+        "cardTitle": "Code-Compliant Work",
+        "cardBody": "Every installation meets or exceeds National Electrical Code standards, keeping your property safe and up to regulations."
+      },
+      {
+        "eyebrow": "Upgrade Your Home",
+        "title": "Modernize with Smart Electrical Solutions",
+        "body": "Outdated wiring and panels can be a fire hazard. We specialize in upgrading older systems to handle today’s energy demands and smart home technology.",
+        "bullets": [
+          "Smart switch and thermostat installation",
+          "Whole-home surge protection",
+          "Energy-efficient LED upgrades"
+        ],
+        "reverse": true,
+        "cardLabel": "Smart Home Ready",
+        "cardTitle": "Future-Proof Your Home",
+        "cardBody": "We integrate the latest smart technology seamlessly, so you can control your home from anywhere."
+      }
+    ],
+    "whyTitle": "Why Choose TX Dallas Electrics?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured Experts",
+        "description": "Our team is fully licensed, insured, and bonded, giving you peace of mind on every job."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprise charges – we provide upfront pricing before any work begins."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "We understand electrical issues can't wait. We typically arrive within 2 hours for emergency calls."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy with our work, we'll make it right. Your trust is our top priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They rewired our entire home and were incredibly professional. The team was punctual, clean, and the work was flawless.",
+        "author": "Michael R.",
+        "role": "Homeowner, Lakewood"
+      },
+      {
+        "quote": "Called for an emergency outage at 10pm – they arrived within an hour and had everything fixed. Lifesavers!",
+        "author": "Jessica L.",
+        "role": "Business Owner, Uptown"
+      },
+      {
+        "quote": "TX Dallas Electrics installed a new panel and surge protector for our office. The quote was fair and the work was done ahead of schedule.",
+        "author": "David M.",
+        "role": "Property Manager, Deep Ellum"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Power Your Home or Business?",
+      "subheadline": "Contact us today for a free, no-obligation quote.",
+      "primaryCta": "Call (469) 619-1729",
+      "secondaryCta": "Book Online"
+    }
+  },
+  "servicesPage": {
+    "intro": "From minor repairs to major installations, TX Dallas Electrics offers a full range of residential and commercial electrical services. Our licensed electricians use the latest tools and techniques to ensure safe, reliable results every time."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Repairs & Troubleshooting",
+      "shortDescription": "Fast, accurate diagnosis and repair for any electrical issue.",
+      "longDescription": "Our experienced electricians quickly identify and fix problems like flickering lights, dead outlets, tripping breakers, and faulty wiring. We use advanced diagnostic tools to get to the root cause, ensuring your electrical system runs safely and efficiently.",
+      "benefits": [
+        "Same-day service available for urgent repairs",
+        "Upfront pricing – no surprises",
+        "All work guaranteed for your peace of mind"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect the issue with specialized tools and provide a clear explanation."
+        },
+        {
+          "title": "Repair",
+          "description": "Our electricians perform the fix using high-quality parts and code-compliant methods."
+        },
+        {
+          "title": "Testing",
+          "description": "We test the repaired circuit and surrounding systems to confirm everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency repair?",
+          "answer": "We offer priority emergency service and typically arrive within 1-2 hours for urgent calls in Dallas."
+        },
+        {
+          "question": "Do you charge for diagnostic visits?",
+          "answer": "We charge a flat diagnostic fee that is applied to the repair cost if you proceed with us. No hidden fees."
+        }
+      ],
+      "slug": "electrical-repairs-troubleshooting"
+    },
+    {
+      "icon": "02",
+      "title": "Panel Upgrades & Electrical Service",
+      "shortDescription": "Upgrade your electrical panel for safety and capacity.",
+      "longDescription": "Older panels can be a fire risk and may not support modern appliances. We specialize in replacing outdated fuse boxes and upgrading to 200-amp or higher service. Our team handles everything from permit acquisition to final inspection.",
+      "benefits": [
+        "Increased capacity for new appliances or additions",
+        "Enhanced safety with arc-fault breakers",
+        "Free consultation and estimate"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate your current panel and load requirements to recommend the right upgrade."
+        },
+        {
+          "title": "Installation",
+          "description": "Our electricians safely disconnect and replace the panel, rewiring as needed."
+        },
+        {
+          "title": "Inspection",
+          "description": "We coordinate with the city for final inspection and ensure full code compliance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential panel upgrades are completed in one day, though complex projects may take longer."
+        },
+        {
+          "question": "Do I need a permit for a panel upgrade?",
+          "answer": "Yes, we handle all permits and inspections to ensure your upgrade is fully code-compliant."
+        }
+      ],
+      "slug": "panel-upgrades-electrical-service"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Beautiful, energy-efficient lighting for any space.",
+      "longDescription": "Transform your home or business with custom lighting solutions. We install recessed lighting, chandeliers, under-cabinet lights, landscape lighting, and smart controls. Our designers help you choose fixtures that enhance aesthetics while reducing energy costs.",
+      "benefits": [
+        "Energy-efficient LED options save you money",
+        "Smart controls for convenience and security",
+        "Professional design consultation included"
+      ],
+      "process": [
+        {
+          "title": "Consultation",
+          "description": "We discuss your vision, review the space, and recommend lighting layouts and fixtures."
+        },
+        {
+          "title": "Installation",
+          "description": "Our electricians carefully install all wiring, fixtures, and controls with minimal disruption."
+        },
+        {
+          "title": "Final Walkthrough",
+          "description": "We test every light and control, ensuring everything works and you're completely satisfied."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install outdoor landscape lighting?",
+          "answer": "Absolutely. We offer low-voltage and line-voltage landscape lighting, including path lights, spotlights, and deck lighting."
+        },
+        {
+          "question": "Do you provide the light fixtures?",
+          "answer": "We can supply fixtures from our trusted vendors or install fixtures you provide. We'll guide you on compatibility and quality."
+        }
+      ],
+      "slug": "lighting-installation-design"
+    },
+    {
+      "icon": "04",
+      "title": "Wiring & Rewiring Services",
+      "shortDescription": "Safe, code-compliant wiring for new builds and renovations.",
+      "longDescription": "Whether you're building a new home, finishing a basement, or updating old wiring, our team ensures every wire is installed to the highest safety standards. We handle complete rewires, new circuits, and specialty wiring for home offices, home theaters, and more.",
+      "benefits": [
+        "Reduced fire risk with modern wiring",
+        "Supports today’s electrical loads",
+        "Increases property value"
+      ],
+      "process": [
+        {
+          "title": "Planning",
+          "description": "We map out the wiring layout based on your needs and local code requirements."
+        },
+        {
+          "title": "Installation",
+          "description": "Our electricians run new wiring, install junction boxes, and connect all outlets and switches."
+        },
+        {
+          "title": "Verification",
+          "description": "We test all circuits for continuity, grounding, and safety before finishing."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "When should I consider rewiring my home?",
+          "answer": "If your home is over 40 years old, has aluminum wiring, or you frequently trip breakers, it's time for an inspection."
+        },
+        {
+          "question": "Will rewiring damage my walls?",
+          "answer": "We minimize damage by using existing pathways when possible. Any necessary openings are patched and prepped for painting."
+        }
+      ],
+      "slug": "wiring-rewiring-services"
+    }
+  ],
+  "about": {
+    "headline": "Dallas’s Most Trusted Electrical Team",
+    "mission": "To provide safe, reliable, and affordable electrical services to every Dallas homeowner and business, with a commitment to quality and customer care.",
+    "story": [
+      "TX Dallas Electrics was founded in 2012 by a team of master electricians who saw a need for honest, high-quality electrical work in the Dallas area. Starting with a single truck, we built a reputation for showing up on time, explaining every step, and delivering flawless results. Over the years, we've grown into a full-service electrical company serving thousands of satisfied customers across the metroplex.",
+      "Our team continues to invest in the latest training and technology to stay ahead of industry standards. From smart home integration to energy-efficient upgrades, we bring modern solutions to every project. But our core values remain the same: treat every home like our own, communicate clearly, and never cut corners."
+    ],
+    "highlight": {
+      "stat": "4.9",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Safety Above All",
+        "description": "Every job follows strict safety protocols to protect you, our team, and your property."
+      },
+      {
+        "title": "Honest Communication",
+        "description": "We explain issues in plain language and provide clear options so you can make informed decisions."
+      },
+      {
+        "title": "Quality Craftsmanship",
+        "description": "We take pride in our work, using premium materials and proven techniques for lasting results."
+      },
+      {
+        "title": "Community First",
+        "description": "As a local business, we’re committed to serving our Dallas neighbors with respect and integrity."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call or fill out our form for a free estimate.",
+    "primaryCta": "Call (469) 619-1729",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Deep Ellum",
+      "Oak Lawn",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.9,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4696191729",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
